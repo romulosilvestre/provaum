@@ -36,4 +36,4 @@ E siga as etapas abaixo
 * Construa uma automação que faça a leitura de cada registro
 * Quando a area estiver entre 10.000 e 10.999, o preço estiver entre 5.000.000 e 5.999.999 e tiver mais de 2 quartos execute a linha seguinte
 * Pesquise o significado de cada uma das séries (colunas), crie um texto formatando todas as informações para os registros que atenderem as condições pré-determinadas
-* Com base no código pronto de e-mail disponibilizado pelo professor em 26/02/2024, envie um e-mail para cada registro para romulogurgeldf@gmail.com com as informações do item anterior
+* Com base no código pronto de e-mail disponibilizado pelo professor em xx/xx/2024, envie um e-mail para cada registro para romulogurgeldf@gmail.com com as informações do item anterior
