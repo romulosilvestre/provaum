@@ -27,8 +27,8 @@ class EmailAut3:
         msg = MIMEMultipart()
         msg.add_header('Content-Type', 'text/html')
 
-        msg['From'] = "instrutor.romulo@gmail.com"
-        password = "pusrrnrdpqoqwfmt"
+        msg['From'] = "xxxxxxxx@gmail.com"
+        password = "xxxxxxxxxxxxx"
 
         msg['Subject'] = self.assunto
         msg['To'] = self.destinatario
