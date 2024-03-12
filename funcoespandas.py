@@ -63,8 +63,8 @@ def pegar():
 print("instânciando para mandar o email")
 
 def main():
-     enviando = EmailAut3(destinatario="romulogurgel@gmail.com",
-                                assunto="prova Rômulo - SENAI",
+     enviando = EmailAut3(destinatario="xxxxxxxxx@gmail.com",
+                                assunto="xxxxxxxxxxx",
                                 conteudo=f"{corpo_email}",
                                 anexos=0)
 
